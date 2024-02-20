@@ -22,7 +22,6 @@ This project aims to detect fake news using machine learning techniques, specifi
 5. **Evaluation:**
    - The model's accuracy is evaluated using the test dataset, and a confusion matrix is generated to assess the classifier's performance in distinguishing between fake and real news articles.
 
-
 #### Acknowledgments:
 
 - This project utilizes the scikit-learn library for machine learning functionalities.
